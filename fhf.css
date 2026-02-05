@@ -52,7 +52,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: fixed;
     text-shadow: 0 0 15px rgba(255,255,255,0.15);
 }
 
