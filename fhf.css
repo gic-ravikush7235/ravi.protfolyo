@@ -48,7 +48,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(_\ \(3\).jpeg);
+    background-image: url("BG.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
